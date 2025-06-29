@@ -37,18 +37,6 @@ A modern, responsive personal portfolio built using **ReactJS**, **Vite**, **Typ
 
 ---
 
-## 🔗 **Live Demo**
-
-👉 [Visit Portfolio] (https://glowing-pothos-944b1e.netlify.app/))
-
----
-
-## 📸 **Screen short**
-
-![Screenshot_21-6-2025_152835_localhost](https://github.com/user-attachments/assets/9d0cd8e8-1e25-4b17-b713-9a339da7ecb5)
-
-
----
 
 ## 🚧 **How to Run Locally**
 
