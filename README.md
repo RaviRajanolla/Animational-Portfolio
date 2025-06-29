@@ -1,4 +1,4 @@
-# 💼 **Personal Portfolio**
+# 💼 **Animation Portfolio**
 
 A modern, responsive personal portfolio built using **ReactJS**, **Vite**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**. This project showcases my professional profile, technical skills, featured projects, certifications, and contact details. It is optimized for mobile devices and deployed on Netlify.
 
